@@ -15,3 +15,14 @@ Training Data:
 Results of guesses:
 
 [Download File](hw1_Miner2_2.txt)
+
+# Installation
+1. Clone the repository:
+  ``` ```
+
+3. Navigate to the project directory:
+  ``` ```
+
+4. Install the required dependencies:
+  ``` ```
+   
