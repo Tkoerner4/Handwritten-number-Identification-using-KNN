@@ -33,6 +33,17 @@ Test Data
 # Usage
 Open knn.ipynb
 
+# Models
+The K-Nearest Neighbors (KNN) model is a simple, instance-based learning algorithm used for classification. The basic idea is to predict the class of a given sample based on the classes of its nearest neighbors in the feature space.
+
+Implementation Details
+Training Data: The provided train.txt is the training data used for building the model. Each line in the file is one sample, whose first value is the ground-truth label and the following 784 values are the pixels of the image.
+
+# Hyperparameters 
+Distance Metrics: Euclidean distance, L1 norm distance, cosine distance
+Number of Neighbors (k): The optimal value of k is determined through cross-validation in the hyperparameter tuning step.
+Dimensionality reducition: This is done via PCA in order to simplify the data and reduce runtime whilst improving algorithm accuracy
+
 # Results
 
 For k I've tried: 17, 35, 51,65,79,101,109,155,255,3, 5, 7,  13, 15,21,251
