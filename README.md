@@ -3,5 +3,15 @@ This project features an implementation of the KNN (K- Nearest Neighbors) algori
 
 # Dataset
 These are the files used for training and test data
+
 Validation data:
-[Download File](Handwritten-number-Identification-using-KNN)
+
+[Download File](validationData.txt)
+
+Training Data:
+
+[Download File](newTrainingData.txt)
+
+Results of guesses:
+
+[Download File](hw1_Miner2_2.txt)
