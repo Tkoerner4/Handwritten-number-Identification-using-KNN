@@ -3,3 +3,5 @@ This project features an implementation of the KNN (K- Nearest Neighbors) algori
 
 # Dataset
 These are the files used for training and test data
+Validation data:
+[Download File](Handwritten-number-Identification-using-KNN)
