@@ -10,7 +10,7 @@ Validation data:
 
 Training Data:
 
-[Download File](newTrainingData.txt)
+[Download File](train.txt)
 
 Results of guesses:
 
