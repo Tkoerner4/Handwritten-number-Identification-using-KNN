@@ -18,11 +18,11 @@ Results of guesses:
 
 # Installation
 1. Clone the repository:
-  ``` ```
+  ```git clone https://github.com/Tkoerner4/Handwritten-number-Identification-using-KNN.git```
 
 3. Navigate to the project directory:
-  ``` ```
+  ```cd Handwritten-number-Identification-using-KNN```
 
 4. Install the required dependencies:
-  ``` ```
+  ```pip install -r requirements.txt```
    
