@@ -41,7 +41,9 @@ Training Data: The provided train.txt is the training data used for building the
 
 # Hyperparameters 
 Distance Metrics: Euclidean distance, L1 norm distance, cosine distance
+
 Number of Neighbors (k): The optimal value of k is determined through cross-validation in the hyperparameter tuning step.
+
 Dimensionality reducition: This is done via PCA in order to simplify the data and reduce runtime whilst improving algorithm accuracy
 
 # Results
