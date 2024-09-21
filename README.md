@@ -32,3 +32,11 @@ Test Data
 
 # Usage
 Open knn.ipynb
+
+# Results
+
+For k I've tried: 17, 35, 51,65,79,101,109,155,255,3, 5, 7,  13, 15,21,251
+The way that I tuned my hyperparameters was setting up the algorithim to run at first with smaller sizes of training data so that runtimes would not be excessive, that way I could constantly improve upon any inefficiencies. I used cross validation as a method of using different validation and training sets, with each partition being run one time for every possible combination. The highest averages of the scores was what I used to determine optimal hyperparameters.
+For methods of getting the distance I tried :Euclidean,Cosine,L1 Norm
+For pca dimensions I've tried: 30,45,50, 100, 150, 200, 350, 400, 550
+
